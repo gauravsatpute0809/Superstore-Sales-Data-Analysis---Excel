@@ -1,0 +1,17 @@
+## 📊 Project Insights
+
+After analyzing the sales dashboard, several useful insights were observed.
+
+The sales by sub-category shows that Phones and Chairs are the top-performing products, contributing the highest revenue. On the other hand, categories like Labels, Fasteners, and Envelopes have very low sales, indicating low demand or limited contribution to overall business.
+
+The profit trend over time shows that Technology is consistently generating the highest profit growth, followed by Office Supplies. Furniture shows lower and fluctuating profit, which may indicate higher costs or lower margins in that category.
+
+State-wise sales analysis highlights that certain states, especially California, have significantly higher sales compared to others. This indicates strong market performance in specific regions, while some areas have lower sales and may need attention.
+
+Customer count has steadily increased from 2014 to 2017, showing business growth and expanding customer base over time.
+
+The top 5 customers contribute a noticeable portion of total profit, which means a small group of customers plays an important role in overall business performance.
+
+Monthly sales analysis shows fluctuations throughout the year, with peak sales observed around months 9 to 12. This suggests seasonal trends where sales increase during certain periods, possibly due to festivals or year-end demand.
+
+Overall, the dashboard provides a clear view of product performance, regional sales, customer contribution, and time-based trends, helping in better business decision-making.
